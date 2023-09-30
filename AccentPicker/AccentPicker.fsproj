@@ -10,8 +10,11 @@
         <Authors>DnKrsk</Authors>
         <PackageTags>color; image; accent; accentpicker</PackageTags>
         <Company>DnKrsk</Company>
-        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <Version>1.0.1</Version>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <RepositoryUrl>https://github.com/dkrsk/AccentPicker</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/dkrsk/AccentPicker</PackageProjectUrl>
     </PropertyGroup>
 
     <ItemGroup>
